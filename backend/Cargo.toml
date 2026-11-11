@@ -20,4 +20,4 @@ sqlx = { version = "0.6", features = [ "runtime-tokio-native-tls", "postgres", "
 sqlxmq = "0.4"
 tokio = { version = "1.20", features = ["macros"] }
 uuid = "1.1"
-warp = "0.3"
+warp = "0.4"
